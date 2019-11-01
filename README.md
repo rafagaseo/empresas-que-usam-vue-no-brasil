@@ -266,6 +266,10 @@ _Juiz de Fora/MG_
 [H5soluções](https://h5solucoes.com.br/)         
 Vue, Vuex, Mysql, PHP     
 _Divinésia/MG_    
+ 
+[Híbrido](http://hibrido.com.br/)  
+Vue, Laravel, Magento, Wordpress, Mysql, AWS    
+_Brusque/SC_      
        
 [HiMaker](http://himaker.com.br/)  
 Vue, Vuex, Node, Laravel    
